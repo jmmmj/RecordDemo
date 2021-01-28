@@ -1,0 +1,2 @@
+# RecordDemo
+一个用OC编写的录音demo小app，可以实现音频录制与播放，显示录制时间，使用了第三方库Masnory与LGAlertView。
